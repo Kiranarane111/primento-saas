@@ -28,15 +28,4 @@
 - Transferred
 - Resigned
 - Terminated
-database/
-├── README.md
-├── users-table.md
-├── employees-table.md
-├── attendance-table.md
-├── sites-table.md
-├── clients-table.md
-├── audits-table.md
-├── inventory-table.md
-├── machines-table.md
-├── vendors-table.md
-└── training-table.md
+  
