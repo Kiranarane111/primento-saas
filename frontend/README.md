@@ -1,13 +1,4 @@
-docs/README.md
-frontend/README.md
-backend/README.md
-database/READPrimento-SaaS
-│
-├── docs
-├── frontend
-├── backend
-├── database
-├── README# Primento Frontend
+# Primento Frontend
 
 Frontend module for Primento Smart SaaS & Facility Management System.
 
@@ -18,4 +9,4 @@ Frontend module for Primento Smart SaaS & Facility Management System.
 - Employee Management
 - Attendance Tracking
 - Audit Management
-- Inventory Management.mdME.md
+- Inventory Management
