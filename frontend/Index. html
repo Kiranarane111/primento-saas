@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Primento SaaS</title>
+</head>
+<body>
+
+  <h1>Primento SaaS 🚀</h1>
+
+  <h2>Login System</h2>
+
+  <input id="email" placeholder="Email" />
+  <input id="password" placeholder="Password" type="password" />
+
+  <button onclick="login()">Login</button>
+
+  <p id="msg"></p>
+
+  <script src="app.js"></script>
+
+</body>
+</html>
